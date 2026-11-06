@@ -15,7 +15,7 @@ QA and Test Analyst looking for QA / SDET roles in the UK. I test web applicatio
 ## Development Projects
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [BankVault App](https://github.com/krutika12-pawar/dev-bankvault-app) | Banking web app with registration, login, dashboard, fund transfer and account statement | Python, Streamlit, OOP |
+| [BankVault App](https://github.com/krutika12-pawar/dev-bankvault-app) | Banking web app with registration, login, dashboard, fund transfer and account statement | Python, Streamlit, OOP | [Live demo](https://bankvault-app-krutika.streamlit.app/)
 | [Jewellery Heaven](https://github.com/krutika12-pawar/dev-jewelleryheaven) | Online jewellery shop website with product pages, cart, wishlist, sign up and payment pages. [Live demo](https://krutika12-pawar.github.io/dev-jewelleryheaven/) | HTML, CSS, JavaScript |
 | [Driving School App](https://github.com/krutika12-pawar/dev-driving_school_app) | Windows desktop app for a driving school with login, dashboard, courses and licence test information | VB.NET, Windows Forms |
 | [Greeting Page](https://github.com/krutika12-pawar/dev-greetingpage) | Simple page that shows a personalised greeting based on the user's name. [Live demo](https://krutika12-pawar.github.io/dev-greetingpage/) | HTML, CSS, JavaScript |
