@@ -12,11 +12,13 @@ QA and Test Analyst looking for QA / SDET roles in the UK. I test web applicatio
 |---------|-------------|-------|
 | [QA-Portfolio](https://github.com/krutika12-pawar/QA-Portfolio) | End to end testing of the SauceDemo shop: requirements, test plan, 52 test cases, defect log, test summary report and Selenium automation | Excel, Selenium, Java, TestNG, Postman, SQL, Power BI |
 
-Project	Description	Tools
-BankVault App	Banking web app with registration, login, dashboard, fund transfer and account statement. Live demo	Python, Streamlit, OOP
-Jewellery Heaven	Online jewellery shop website with product pages, cart, wishlist, sign up and payment pages. Live demo	HTML, CSS, JavaScript
-Driving School App	Windows desktop app for a driving school with login, dashboard, courses and licence test information	VB.NET, Windows Forms
-Greeting Page	Simple page that shows a personalised greeting based on the user's name. Live demo	HTML, CSS, JavaScript
+## Development Projects
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [BankVault App](https://github.com/krutika12-pawar/dev-bankvault-python) | Banking web app with registration, login, dashboard, fund transfer and account statement. [Live demo](https://bankvault-app-krutika.streamlit.app/) | Python, Streamlit, OOP |
+| [Jewellery Heaven](https://github.com/krutika12-pawar/dev-jewelleryheaven) | Online jewellery shop website with product pages, cart, wishlist, sign up and payment pages. [Live demo](https://krutika12-pawar.github.io/dev-jewelleryheaven/) | HTML, CSS, JavaScript |
+| [Driving School App](https://github.com/krutika12-pawar/dev-driving-school-vbnet) | Windows desktop app for a driving school with login, dashboard, courses and licence test information | VB.NET, Windows Forms |
+| [Greeting Page](https://github.com/krutika12-pawar/dev-greetingpage) | Simple page that shows a personalised greeting based on the user's name. [Live demo](https://krutika12-pawar.github.io/dev-greetingpage/) | HTML, CSS, JavaScript |
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/krutika-pawar-16355a17b/
